@@ -1,0 +1,185 @@
+{
+  "company": {
+    "name": "hesap - ama daha hızlısı!",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Ürünlerimiz",
+      "href": "product"
+    },
+    {
+      "name": "Özelliklerimiz",
+      "href": "features"
+    },
+
+    {
+      "name": "Modellerimiz",
+      "href": "pricing"
+    },
+    {
+      "name": "Hakkımızda",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Hadi Başlayalım",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "hesap",
+    "subtitle": "ama daha hızlısı.",
+    "description": "Sevdiklerinizle yediğiniz güzel bir yemekten sonra hesap ödemek için uzun süre sıranın size gelmesini beklemeye son! Hesap ile hızlı sipariş ve hızlı ödeme fırsatını siz değerli müşterilerimizle buluşturuyoruz. Günlük hayatta restoranlarda & kafelerde karşılaştığınız bir çok problemin üstesinden gelmek artık uygulamamız ile artık mümkün. Tek yapmanız gereken oturmak istediğiniz masada bulunan QR kodu okutmak. İşte bu kadar. Sonrasında siparişinizi verebilir ve ödemeyi de siparişinizi verdikten hemen sonra garsonu beklemeden tamamlayabilirsiniz.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Başlayalım",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Bize E-mail Gönder",
+      "href": "mailto:m.semihbabacan@gmail.com?subject= Merhaba, Hesap uygulamanızın websitesini gördüm ve...!"
+    }
+  },
+  "product": {
+    "title": " hesap ile hesabı beklemeyin!",
+    "items": [
+      {
+        "title": "Tüm İşlemlerinizi Hızlandırın!",
+        "description": "Islemleri yapmayla ilgili ekran koymak lazim!",
+        "img": "/assets/images/hesap-images/hesap_holding_phone_cartoon.png"
+      },
+      {
+        "title": "Değerli Vaktinizi Boşa Harcamayın",
+        "description": "Vakit ile ilgili yazi yazilmasi gerekiyor",
+        "img": "/assets/images/hesap-images/hesap_people_waiting.png"
+      },
+      {
+        "title": "Herşey Bir Arada!",
+        "description": "Uygulamanin temel ozelliklerini gosteren bir mockup olabilir!",
+        "img": "/assets/images/hesap-images/hesap_holding_phone.png"
+      },
+      {
+        "title": "Restoran & Kafe Arayüzü",
+        "description": "Restoran & Kafe sahipleri için özel arayüzümüz ile anlık sipariş takibinden gemiş siparişlere ve sipariş iptallerine kadar özel özelliklerimiz ile hizmet sunuyoruz",
+        "img": "/assets/images/hesap-images/hesap_mockup_siparisler_3.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "size özel özelliklerimiz ",
+    "subtitle": "Çünkü Sizin Vaktinizi Önemsiyoruz!",
+    "description": "Uygulamamızı kullanarak size her türlü alanda HIZ sağlıyoruz. ",
+    "items": [
+      {
+        "name": "Menü Bekleme",
+        "description": "Menünüzün gelmesini beklemden, uygulamamızı kullanarak masaya oturduğunuz gibi QR kodunuzu okutun ve menünüze anında ulaşın.",
+        "icon": "/assets/images/hesap-images/hesap_booking.png"
+      },
+      {
+        "name": "Garson Bekleme",
+        "description": "Uygulamamızı kullanarak, Garsonu Beklemeden garson ile iletişime geçin ve süreci hızlandırın.",
+        "icon": "/assets/images/hesap-images/hesap_ring.png"
+      },
+      {
+        "name": "Ödemek İçin Bekleme",
+        "description": "HesabınızıÖdemek İçin Beklemeyin, hızlıca uygulamamız üzerinden ödemeniz ile ilgili her türlü işlemi gerçekleştirin.",
+        "icon": "/assets/images/hesap-images/hesap_payinh.png"
+      },
+      {
+        "name": "Fazladan Bekleme",
+        "description": "Ortak hesap ödeme imkanından tutunda hesabı başkası ile paylaşmaya kadar farklı farklı ödeme özelliklerimizle uygulamamızı kullanarak Fazladan Beklemeyin.",
+        "icon": "/assets/images/hesap-images/hesap_together_payment.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "İş Modellerimiz",
+    "items": [
+      {
+        "name": "Standart",
+        "price": "STANDART",
+        "priceDetails": "işletmeler için",
+        "features": [
+          "Sınırlı QR Kod Oluşturma",
+          "Teknik Destek",
+          "Personel Eğitimi",
+          "Standart Reklamlar",
+          "Temel Anlaşmalar",
+          "Canlı Destek"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "FARK",
+        "priceDetails": "oluşturmak isteyen işletmeler için",
+
+        "features": [
+          "Sınırsız QR Kod Oluşturma",
+          "Premium Teknik Destek",
+          "Birebir Eğitim",
+          "Özelleştirilmiş Reklamlar",
+          "Cash-Back Anlaşmaları",
+          "Kupon Anlaşmaları",
+          "Özelleştirilmiş İş Analizi ve Danışmalık Hizmetleri"
+        ]
+      },
+      {
+        "name": "İş Analizi ve Danışmanlık",
+        "price": "İŞİNDEN",
+        "priceDetails": "haberdar olmak isteyenler için",
+        "features": [
+          "Veri Madenciğili Desteği",
+          "Kullanıcı Davranışı Analizleri",
+          "Trend Analizleri & Tahminleri",
+          "Fırsat Tahminleri",
+          "İş Analizi"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Melike Zeynep ÇAKMAKCI",
+        "href": "https://www.linkedin.com/in/melike-zeynep-%C3%A7akmakc%C4%B1-78589b195/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_zeynep.png",
+        "alt": "Melike Zeynep ÇAKMAKCI"
+      },
+      {
+        "name": "Emine COŞKUN",
+        "href": "https://www.linkedin.com/in/emine-co%C5%9Fkun-79395b187/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_emine.png",
+        "alt": "Emine COŞKUN"
+      },
+      {
+        "name": "Mehmet Semih Babacan",
+        "href": "https://www.linkedin.com/in/mehmetsemihbabacan/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_semih.png",
+        "alt": "Mehmet Semih Babacan"
+      },
+
+      {
+        "name": "Erdem KALYONCU",
+        "href": "https://www.linkedin.com/in/erdemkalyoncu/",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_erdem.png",
+        "alt": "Erdem KALYONCU"
+      },
+      {
+        "name": "Merve Nur KÖROĞLU",
+        "href": "https://www.linkedin.com/in/merve-nur-k%C3%B6ro%C4%9Flu-62b484165?originalSubdomain=tr",
+        "content": ".",
+        "img": "/assets/images/hesap-accounts/hesap_merve.png",
+        "alt": "Merve Nur KÖROĞLU"
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
