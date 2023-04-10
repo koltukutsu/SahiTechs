@@ -32,7 +32,7 @@
     "img": "/assets/images/earhquake.jpg",
     "primaryAction": {
       "text": "İnceleyin",
-      "href": "#"
+      "href": "introduction"
     },
     "secondaryAction": {
       "text": "Bize E-mail Gönder",
