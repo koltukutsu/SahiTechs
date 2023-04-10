@@ -19,16 +19,19 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
         alt={name}
       />
       <div className="p-4">
-        <div className="flex items-center mb-2">
-          <FontAwesomeIcon icon={faLinkedin} className="text-linkedin mr-2" />
-          <a
-            href={linkedin}
-            target="_blank"
-            className="font-bold text-gray-800 hover:text-linkedin"
-          >
+        <a
+          href={linkedin}
+          target="_blank"
+          className="font-bold text-gray-800 hover:text-linkedin"
+        >
+          {" "}
+          <div className="flex items-center mb-2">
+            <FontAwesomeIcon icon={faLinkedin} className="text-linkedin mr-2" />
+
             {name}
-          </a>
-        </div>
+          </div>
+        </a>
+
         <p className="text-gray-600">{position}</p>
       </div>
     </div>
