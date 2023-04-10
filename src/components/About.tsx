@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import config from '../config/index.json';
+import config from "../config/index.json";
 
 interface PersonCardProps {
   name: string;
@@ -27,7 +27,7 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
           rel="noreferrer"
           className="font-bold text-gray-800 hover:text-primary"
         >
-          {' '}
+          {" "}
           <div className="flex items-center mb-2">
             <FontAwesomeIcon icon={faLinkedin} className="text-linkedin mr-2" />
 
@@ -37,14 +37,12 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
 
         <p className="text-gray-600">{position}</p>
       </div>
-      
     </div>
   );
 }
 
 const About = () => {
-  const { company, about } = config;
-  console.log(company);
+  const { about } = config;
   // const { logo, name: companyName } = company;
   const { sections } = about;
   // const { socialMedia, sections } = about;
@@ -130,7 +128,6 @@ const About = () => {
           />
         ))}
       </div>
-      
     </div>
   );
 
