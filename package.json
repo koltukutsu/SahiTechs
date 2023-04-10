@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next --openssl-legacy-provider start",
     "build-stats": "cross-env ANALYZE=true npm run build",
     "export": "next export",
     "build-prod": "run-s clean build export",
