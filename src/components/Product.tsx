@@ -34,7 +34,7 @@ const Product = () => {
           </div>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
-              className="h-6/6"
+              className="h-6/6 pt-12"
               src={firstItem?.img}
               alt={firstItem?.title}
             />

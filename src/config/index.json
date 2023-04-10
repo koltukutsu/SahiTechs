@@ -1,11 +1,11 @@
 {
   "company": {
-    "name": "hesap - ama daha hızlısı!",
-    "logo": "/assets/images/logo.png"
+    "name": "SismEQ",
+    "logo": "/assets/images/sismeq-logo.png"
   },
   "navigation": [
     {
-      "name": "Ürünlerimiz",
+      "name": "Çözümümüz",
       "href": "product"
     },
     {
@@ -18,21 +18,21 @@
       "href": "pricing"
     },
     {
-      "name": "Hakkımızda",
+      "name": "Ekibimiz",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Hadi Başlayalım",
+    "text": "Hadi İnceleyelim",
     "href": "#"
   },
   "mainHero": {
-    "title": "hesap",
-    "subtitle": "ama daha hızlısı.",
-    "description": "Sevdiklerinizle yediğiniz güzel bir yemekten sonra hesap ödemek için uzun süre sıranın size gelmesini beklemeye son! Hesap ile hızlı sipariş ve hızlı ödeme fırsatını siz değerli müşterilerimizle buluşturuyoruz. Günlük hayatta restoranlarda & kafelerde karşılaştığınız bir çok problemin üstesinden gelmek artık uygulamamız ile artık mümkün. Tek yapmanız gereken oturmak istediğiniz masada bulunan QR kodu okutmak. İşte bu kadar. Sonrasında siparişinizi verebilir ve ödemeyi de siparişinizi verdikten hemen sonra garsonu beklemeden tamamlayabilirsiniz.",
+    "title": "SismEQ",
+    "subtitle": "Yenilikçi Afet Müdahale Çözümü",
+    "description": "Afet müdahale ekiplerinin depremler sırasında karşılaştığı bilgi kirliliğine yönelik yenilikçi çözümümüz SismEQ'ya hoş geldiniz. Kendimizi, kurtarma çalışmalarını geciktiren ve hayatları riske atan koordinasyon ve organizasyon sorunlarını çözmeye adadık.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Başlayalım",
+      "text": "İnceleyin",
       "href": "#"
     },
     "secondaryAction": {
@@ -41,27 +41,22 @@
     }
   },
   "product": {
-    "title": " hesap ile hesabı beklemeyin!",
+    "title": " SismEQ Depremler için İleri Teknoloji!",
     "items": [
       {
-        "title": "Tüm İşlemlerinizi Hızlandırın!",
-        "description": "Islemleri yapmayla ilgili ekran koymak lazim!",
-        "img": "/assets/images/hesap-images/hesap_holding_phone_cartoon.png"
+        "title": "İleri Teknoloji ile Deprem Müdahalesi!",
+        "description": "SismEQ, deprem riski altındaki Türkiye için geliştirilmiş bir sistemdir. Binalardaki insan sayısını kameralar ve sensörlerle tespit ederek, afet müdahale ekiplerine kaynakları daha verimli bir şekilde kullanma imkanı sağlar. Bu yenilikçi teknoloji, can kaybı riskini en aza indirir ve kurtarma çalışmalarını hızlandırır.",
+        "img": "/assets/images/hesap-images/first.png"
       },
       {
-        "title": "Değerli Vaktinizi Boşa Harcamayın",
-        "description": "Vakit ile ilgili yazi yazilmasi gerekiyor",
-        "img": "/assets/images/hesap-images/hesap_people_waiting.png"
+        "title": "Mobil Uygulama ile Bireysel Güvenlik",
+        "description": "SismEQ, bireysel güvenliği düşünen bir sistemdir. Mobil uygulaması aracılığıyla bireyler, afet sırasında kendilerini ve aile üyelerini sisteme kaydedebilir ve güvenlik durumları hakkında bildirimde bulunabilirler. Bu, afet müdahale ekiplerinin kaynaklarını en çok ihtiyaç duyulan yerlere odaklamalarına yardımcı olur ve hayat kurtarma şansını artırır.",
+        "img": "/assets/images/hesap-images/securıty.png"
       },
       {
-        "title": "Herşey Bir Arada!",
-        "description": "Uygulamanin temel ozelliklerini gosteren bir mockup olabilir!",
-        "img": "/assets/images/hesap-images/hesap_holding_phone.png"
-      },
-      {
-        "title": "Restoran & Kafe Arayüzü",
-        "description": "Restoran & Kafe sahipleri için özel arayüzümüz ile anlık sipariş takibinden gemiş siparişlere ve sipariş iptallerine kadar özel özelliklerimiz ile hizmet sunuyoruz",
-        "img": "/assets/images/hesap-images/hesap_mockup_siparisler_3.jpg"
+        "title": "Abonelik Tabanlı Hizmet!",
+        "description": "SismEQ, abonelik tabanlı bir hizmet sunarak acil durum yönetiminden sorumlu kuruluşlara ve afet müdahale ekiplerine yenilikçi bir teknoloji sunar. Kurulum, eğitim ve bakım hizmetleri de dahil olmak üzere, sistemin sorunsuz çalışmasını garanti altına alır.",
+        "img": "/assets/images/hesap-images/first.png"
       }
     ]
   },
@@ -140,40 +135,92 @@
   "about": {
     "sections": [
       {
-        "name": "Melike Zeynep ÇAKMAKCI",
-        "href": "https://www.linkedin.com/in/melike-zeynep-%C3%A7akmakc%C4%B1-78589b195/",
-        "content": ".",
-        "img": "/assets/images/hesap-accounts/hesap_zeynep.png",
-        "alt": "Melike Zeynep ÇAKMAKCI"
+        "name": "Semih Aydın",
+        "position": "Strateji ve Büyüme/Pazarlama",
+        "linkedin": "https://www.linkedin.com/in/ssemihaydnn/",
+        "img": "/assets/images/hesap-accounts/aydın.jpg",
+        "team": "Proje",
+        "alt": "Semih Aydın"
       },
       {
-        "name": "Emine COŞKUN",
-        "href": "https://www.linkedin.com/in/emine-co%C5%9Fkun-79395b187/",
-        "content": ".",
-        "img": "/assets/images/hesap-accounts/hesap_emine.png",
-        "alt": "Emine COŞKUN"
+        "name": "Ahmed Akif Kaya",
+        "position": "Strateji ve Finans",
+        "linkedin": "https://www.linkedin.com/in/ahmed-akif-kaya-409916141/",
+        "img": "/assets/images/hesap-accounts/ahmed.jpg",
+        "team": "Proje",
+
+        "alt": "Ahmed Akif Kaya"
       },
       {
-        "name": "Mehmet Semih Babacan",
-        "href": "https://www.linkedin.com/in/mehmetsemihbabacan/",
-        "content": ".",
-        "img": "/assets/images/hesap-accounts/hesap_semih.png",
-        "alt": "Mehmet Semih Babacan"
+        "name": "İsmail Erdoğan",
+        "position": "Operasyon",
+        "linkedin": "https://www.linkedin.com/in/ismailerdogan82/",
+        "img": "/assets/images/hesap-accounts/ismail.jpg",
+
+        "team": "Proje",
+        "alt": "İsmail Erdoğan"
+      },
+      {
+        "name": "Muhammet Talha Danış",
+        "position": "Hukuk ve Regülasyon",
+        "linkedin": "https://www.linkedin.com/in/muhammed-talha-dani%C5%9F-24b3a220a/",
+        "img": "/assets/images/hesap-accounts/danis.jpg",
+        "team": "Yonetim",
+        "alt": "Muhammet Talha Danış"
+      },
+      {
+        "name": "Atakan Çavuş",
+        "position": "Proje Geliştirme (Mimar) ve Tasarımcı",
+        "linkedin": "https://www.linkedin.com/in/atakan-%C3%A7avu%C5%9F-2048/",
+        "img": "/assets/images/hesap-accounts/atakan.jpg",
+        "team": "Proje",
+
+        "alt": "Atakan Çavuş"
+      },
+      {
+        "name": "Asım Altan",
+        "position": "Proje Geliştirme",
+        "linkedin": "https://www.linkedin.com/in/seyfeddin-as%C4%B1m-altan/",
+        "img": "/assets/images/hesap-accounts/asim.jpg",
+        "team": "Proje",
+
+        "alt": "Asım Altan"
       },
 
       {
-        "name": "Erdem KALYONCU",
-        "href": "https://www.linkedin.com/in/erdemkalyoncu/",
-        "content": ".",
-        "img": "/assets/images/hesap-accounts/hesap_erdem.png",
-        "alt": "Erdem KALYONCU"
+        "name": "Kerem Ekinci",
+        "position": "Yazılım ve AR-GE",
+        "linkedin": "https://www.linkedin.com/in/mustafa-kerem-ekinci-74b946192/",
+        "img": "/assets/images/hesap-accounts/kerem.jpg",
+        "team": "Ar-Ge",
+
+        "alt": "Kerem Ekinci"
       },
       {
-        "name": "Merve Nur KÖROĞLU",
-        "href": "https://www.linkedin.com/in/merve-nur-k%C3%B6ro%C4%9Flu-62b484165?originalSubdomain=tr",
-        "content": ".",
-        "img": "/assets/images/hesap-accounts/hesap_merve.png",
-        "alt": "Merve Nur KÖROĞLU"
+        "name": "Bahadır İren",
+        "position": "Yazılım ve Teknik Destek",
+        "linkedin": "https://www.linkedin.com/in/bahadiriren/",
+        "img": "/assets/images/hesap-accounts/bahadır.jpg",
+        "team": "Ar-Ge",
+        "alt": "Bahadır İren"
+      },
+      {
+        "name": "Ahmet Furkan Akıncı",
+        "position": "Donanım ve AR-GE",
+        "linkedin": "https://www.linkedin.com/in/ahmet-furkan-akinci/",
+        "img": "/assets/images/hesap-accounts/furkan.jpg",
+        "team": "Ar-Ge",
+
+        "alt": "Ahmet Furkan Akıncı"
+      },
+      {
+        "name": "Mehmet Semih Babacan",
+        "position": "Yazılım ve Teknik Destek",
+        "linkedin": "https://www.linkedin.com/in/mehmetsemihbabacan/",
+        "img": "/assets/images/hesap-accounts/babacan-2.avif",
+        "team": "Ar-Ge",
+
+        "alt": "Mehmet Semih Babacan"
       }
     ],
     "socialMedia": {
