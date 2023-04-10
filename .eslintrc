@@ -4,8 +4,7 @@
   "extends": ["airbnb-base", "plugin:prettier/recommended"],
   "rules": {
     "react/no-unescaped-entities": "off",
-    "@next/next/no-page-custom-font": "off",
-    ]
+    "@next/next/no-page-custom-font": "off"
   },
   "overrides": [
     // Configuration for TypeScript files
