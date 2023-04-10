@@ -25,7 +25,7 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
           href={linkedin}
           target="_blank"
           rel="noreferrer"
-          className="font-bold text-gray-800 hover:text-linkedin"
+          className="font-bold text-gray-800 hover:text-primary"
         >
           {' '}
           <div className="flex items-center mb-2">
