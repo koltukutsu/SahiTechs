@@ -1,6 +1,8 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import config from '../config/index.json';
 
 interface PersonCardProps {
@@ -22,9 +24,10 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
         <a
           href={linkedin}
           target="_blank"
+          rel="noreferrer"
           className="font-bold text-gray-800 hover:text-linkedin"
         >
-          {" "}
+          {' '}
           <div className="flex items-center mb-2">
             <FontAwesomeIcon icon={faLinkedin} className="text-linkedin mr-2" />
 
