@@ -37,6 +37,7 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
 
         <p className="text-gray-600">{position}</p>
       </div>
+      
     </div>
   );
 }
@@ -113,7 +114,7 @@ const About = () => {
   // );
 
   return (
-    <div className="container mx-auto py-6">
+    <div className="container mx-auto py-6" id="team">
       <h1 className="w-full my-2 text-5xl font-bold leading-tight text-center text-black pb-4">
         Ekibimiz
       </h1>
@@ -129,6 +130,7 @@ const About = () => {
           />
         ))}
       </div>
+      
     </div>
   );
 
