@@ -40,16 +40,17 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
 
 const About = () => {
   const { company, about } = config;
+  console.log(company);
   // const { logo, name: companyName } = company;
   const { sections } = about;
   // const { socialMedia, sections } = about;
-  const yonetimHukukTeam = sections.filter(
-    (person) => person.team === "Yonetim"
-  );
-  const operasyonelYonetimTeam = sections.filter(
-    (person) => person.team === "Proje"
-  );
-  const argeTeam = sections.filter((person) => person.team === "Ar-Ge");
+  // const yonetimHukukTeam = sections.filter(
+  //   (person) => person.team === "Yonetim"
+  // );
+  // const operasyonelYonetimTeam = sections.filter(
+  //   (person) => person.team === "Proje"
+  // );
+  // const argeTeam = sections.filter((person) => person.team === "Ar-Ge");
 
   // return (
   //   <div>
