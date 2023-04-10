@@ -66,23 +66,23 @@
     "items": [
       {
         "name": "Görüntü İşleme ile Anlık Veri",
-        "description": "Menünüzün gelmesini beklemden, uygulamamızı kullanarak masaya oturduğunuz gibi QR kodunuzu okutun ve menünüze anında ulaşın.",
-        "icon": "/assets/images/hesap-images/hesap_booking.png"
+        "description": "SismEQ, binalarda bulunan kameraları ve sensörleri kullanarak, deprem sırasında mevcut insan sayısını tespit eder ve bu bilgileri komuta merkezine anlık olarak ileterek afet müdahale ekiplerinin kaynaklarını daha verimli bir şekilde koordine etmelerini sağlar.",
+        "icon": "/assets/images/hesap-images/coding.png"
       },
       {
         "name": "Mobil Uygulama ve İle Güvenlik Bildirimi",
-        "description": "Uygulamamızı kullanarak, Garsonu Beklemeden garson ile iletişime geçin ve süreci hızlandırın.",
-        "icon": "/assets/images/hesap-images/hesap_ring.png"
+        "description": "SismEQ, bir mobil uygulama geliştirerek bireylerin kendilerini ve aile üyelerini sisteme kaydetmelerini sağlar. Bu sayede bir deprem durumunda afetzedeler uygulama aracılığıyla güvenlik durumları hakkında bildirimde bulunabilirler ve afet müdahale ekipleri çabalarını en çok ihtiyaç duyulan yerlere odaklayarak hayat kurtarma şansını artırabilir.",
+        "icon": "/assets/images/hesap-images/alert.png"
       },
       {
         "name": "Konum Bildirme",
-        "description": "HesabınızıÖdemek İçin Beklemeyin, hızlıca uygulamamız üzerinden ödemeniz ile ilgili her türlü işlemi gerçekleştirin.",
-        "icon": "/assets/images/hesap-images/hesap_payinh.png"
+        "description": "SismEQ'nun mobil uygulaması, kullanıcıların konumlarını anlık olarak tespit edebilir. Bu sayede afet müdahale ekipleri, afetzedelerin konumlarını hızlı bir şekilde tespit ederek kurtarma çalışmalarını daha etkili bir şekilde yönetebilirler.",
+        "icon": "/assets/images/hesap-images/location.png"
       },
       {
         "name": "Büyük Veri ile Koordinasyon",
-        "description": "Ortak hesap ödeme imkanından tutunda hesabı başkası ile paylaşmaya kadar farklı farklı ödeme özelliklerimizle uygulamamızı kullanarak Fazladan Beklemeyin.",
-        "icon": "/assets/images/hesap-images/hesap_together_payment.png"
+        "description": "SismEQ'nun geliştirdiği insan sayma sistemi, büyük veri analizi yöntemlerini kullanarak deprem sırasında toplanan verileri işler ve afet müdahale ekiplerinin kaynaklarını daha verimli bir şekilde koordine etmelerine yardımcı olur. Bu sayede kurtarma çalışmaları daha hızlı ve etkili bir şekilde yürütülebilir.        ",
+        "icon": "/assets/images/hesap-images/coordination.png"
       }
     ]
   },

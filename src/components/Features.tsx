@@ -32,7 +32,7 @@ const Features = () => {
                     className={`absolute flex items-center justify-center h-24 w-24 rounded-md bg-background text-tertiary border-primary border-4`}
                   >
                     <img
-                      className={`inline-block h-34 w-34 rounded-full`}
+                      className={`inline-block h-34 w-34 rounded-full p-5`}
                       src={feature.icon}
                       alt={feature.name}
                     />
