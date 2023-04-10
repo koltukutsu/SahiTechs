@@ -61,27 +61,27 @@
     ]
   },
   "features": {
-    "title": "size özel özelliklerimiz ",
-    "subtitle": "Çünkü Sizin Vaktinizi Önemsiyoruz!",
-    "description": "Uygulamamızı kullanarak size her türlü alanda HIZ sağlıyoruz. ",
+    "title": "Özelliklerimiz ",
+    "subtitle": "Çünkü İnsanlığı Önemsiyoruz!",
+    "description": "SismEQ ile sürdürülebilir şehir ve topluluk mümkün!",
     "items": [
       {
-        "name": "Menü Bekleme",
+        "name": "Görüntü İşleme ile Anlık Veri",
         "description": "Menünüzün gelmesini beklemden, uygulamamızı kullanarak masaya oturduğunuz gibi QR kodunuzu okutun ve menünüze anında ulaşın.",
         "icon": "/assets/images/hesap-images/hesap_booking.png"
       },
       {
-        "name": "Garson Bekleme",
+        "name": "Mobil Uygulama ve İle Güvenlik Bildirimi",
         "description": "Uygulamamızı kullanarak, Garsonu Beklemeden garson ile iletişime geçin ve süreci hızlandırın.",
         "icon": "/assets/images/hesap-images/hesap_ring.png"
       },
       {
-        "name": "Ödemek İçin Bekleme",
+        "name": "Konum Bildirme",
         "description": "HesabınızıÖdemek İçin Beklemeyin, hızlıca uygulamamız üzerinden ödemeniz ile ilgili her türlü işlemi gerçekleştirin.",
         "icon": "/assets/images/hesap-images/hesap_payinh.png"
       },
       {
-        "name": "Fazladan Bekleme",
+        "name": "Büyük Veri ile Koordinasyon",
         "description": "Ortak hesap ödeme imkanından tutunda hesabı başkası ile paylaşmaya kadar farklı farklı ödeme özelliklerimizle uygulamamızı kullanarak Fazladan Beklemeyin.",
         "icon": "/assets/images/hesap-images/hesap_together_payment.png"
       }
@@ -138,7 +138,7 @@
         "name": "Semih Aydın",
         "position": "Strateji ve Büyüme/Pazarlama",
         "linkedin": "https://www.linkedin.com/in/ssemihaydnn/",
-        "img": "/assets/images/hesap-accounts/aydın.jpg",
+        "img": "/assets/images/hesap-accounts/aydin-2.jpg",
         "team": "Proje",
         "alt": "Semih Aydın"
       },
