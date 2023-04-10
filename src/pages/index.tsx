@@ -4,13 +4,13 @@ import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
 import Features from '../components/Features';
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Pricing from '../components/Pricing';
 import Product from '../components/Product';
-import Footer from '../components/Footer';
 import SahiTechs from '../components/Sahitechs';
 
 const App = () => {
