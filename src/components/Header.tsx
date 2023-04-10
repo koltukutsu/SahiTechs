@@ -59,7 +59,7 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="mailto:m.semihbabacan@gmail.com?subject=SahıTechs - SismEQ İletişim!"
+                href="mailto:sismeq.sahitechs@gmail.com?subject=SahıTechs - SismEQ İletişim!"
                 className={`font-medium text-primary hover:text-secondary`}
               >
                 İletişim
