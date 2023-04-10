@@ -27,7 +27,7 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
           rel="noreferrer"
           className="font-bold text-gray-800 hover:text-primary"
         >
-          {" "}
+          {' '}
           <div className="flex items-center mb-2">
             <FontAwesomeIcon icon={faLinkedin} className="text-linkedin mr-2" />
 
