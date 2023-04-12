@@ -27,12 +27,12 @@
   },
   "mainHero": {
     "title": "SismEQ",
-    "subtitle": "Yenilikçi Afet Müdahale Çözümü",
-    "description": "Afet müdahale ekiplerinin depremler sırasında karşılaştığı bilgi kirliliğine yönelik yenilikçi çözümümüz SismEQ'ya hoş geldiniz. Kendimizi, kurtarma çalışmalarını geciktiren ve hayatları riske atan koordinasyon ve organizasyon sorunlarını çözmeye adadık.",
+    "subtitle": "Yenilikçi ve Yapay Zeka Tabanlı Afet Müdahele Çözümü",
+    "description": "Afet müdahale ekiplerinin depremler sonrasında maruz kaldığı karşılaştığı bilgi kirliliğine yönelik yenilikçi çözümümüz SismEQ'ya hoş geldiniz. Kendimizi, kurtarma çalışmalarını engel olarak geciktiren ve hayatları riske atan koordinasyon ve organizasyon sorunlarını çözmeye adadık.",
     "img": "/assets/images/earhquake.jpg",
     "primaryAction": {
       "text": "İnceleyin",
-      "href": "introduction"
+      "href": "#introduction"
     },
     "secondaryAction": {
       "text": "Bize E-mail Gönder",
@@ -40,20 +40,20 @@
     }
   },
   "product": {
-    "title": " SismEQ Depremler için İleri Teknoloji!",
+    "title": " SismEQ Afet Müdahelesi için İleri Teknoloji!",
     "items": [
       {
-        "title": "İleri Teknoloji ile Deprem Müdahalesi",
-        "description": "SismEQ, deprem riski altındaki Türkiye için geliştirilmiş bir sistemdir. Binalardaki insan sayısını kameralar ve sensörlerle tespit ederek, afet müdahale ekiplerine kaynakları daha verimli bir şekilde kullanma imkanı sağlar. Bu yenilikçi teknoloji, can kaybı riskini en aza indirir ve kurtarma çalışmalarını hızlandırır.",
+        "title": "İleri Teknoloji ile Afet Müdahalesi",
+        "description": "SismEQ, deprem riski altındaki Türkiye için geliştirilmiş bir sistemdir. Binalardaki insan sayısını kameralar ve sensörlerle tespit ederek, afet müdahale ekiplerine kaynakları daha verimli bir şekilde kullanma imkanı sağlar. Bu yenilikçi teknoloji, müdahele süresini azaltır ve kurtarma çalışmalarını hızlandırır.",
         "img": "/assets/images/hesap-images/first.png"
       },
       {
-        "title": "Mobil Uygulama ile Bireysel Güvenlik",
+        "title": "SismEQ Mobil Destek",
         "description": "SismEQ, bireysel güvenliği düşünen bir sistemdir. Mobil uygulaması aracılığıyla bireyler, afet sırasında kendilerini ve aile üyelerini sisteme kaydedebilir ve güvenlik durumları hakkında bildirimde bulunabilirler. Bu, afet müdahale ekiplerinin kaynaklarını en çok ihtiyaç duyulan yerlere odaklamalarına yardımcı olur ve hayat kurtarma şansını artırır.",
         "img": "/assets/images/hesap-images/securıty.png"
       },
       {
-        "title": "Abonelik Tabanlı Hizmet",
+        "title": "Sisteme Dahil Olun ve Afet Müdahelesini Kolaylaştırın",
         "description": "SismEQ, abonelik tabanlı bir hizmet sunarak acil durum yönetiminden sorumlu kuruluşlara ve afet müdahale ekiplerine yenilikçi bir teknoloji sunar. Kurulum, eğitim ve bakım hizmetleri de dahil olmak üzere, sistemin sorunsuz çalışmasını garanti altına alır.",
         "img": "/assets/images/hesap-images/abonelik.webp"
       }
@@ -61,7 +61,7 @@
   },
   "features": {
     "title": "Özelliklerimiz ",
-    "subtitle": "Çünkü İnsanlığı Önemsiyoruz!",
+    "subtitle": "Çünkü Canlıyı Önemsiyoruz!",
     "description": "SismEQ ile sürdürülebilir şehir ve topluluk mümkün!",
     "items": [
       {
@@ -75,8 +75,8 @@
         "icon": "/assets/images/hesap-images/alert.png"
       },
       {
-        "name": "Konum Bildirme",
-        "description": "SismEQ'nun mobil uygulaması, kullanıcıların konumlarını anlık olarak tespit edebilir. Bu sayede afet müdahale ekipleri, afetzedelerin konumlarını hızlı bir şekilde tespit ederek kurtarma çalışmalarını daha etkili bir şekilde yönetebilirler.",
+        "name": "Alana Ait Veriler",
+        "description": "SismEQ yapıları ayırt eder. Sistemimiz her binayı ve verilerini ayrı kaydeder, yapıların konumunu bilir ve yapının planını bilir.",
         "icon": "/assets/images/hesap-images/location.png"
       },
       {
