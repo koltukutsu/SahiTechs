@@ -16,7 +16,7 @@ function PersonCard({ name, position, photo, linkedin }: PersonCardProps) {
   return (
     <div className="bg-white rounded-lg shadow-md overflow-hidden">
       <img
-        className="w-full object-cover sm:h-60 md:h-72 lg:h-80"
+        className="filter grayscale w-full object-cover sm:h-60 md:h-72 lg:h-80"
         src={photo}
         alt={name}
       />

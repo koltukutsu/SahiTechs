@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "SismEQ",
-    "logo": "/assets/images/sismeq-logo.png"
+    "logo": "/assets/images/sismeq-logo-2.png"
   },
   "navigation": [
     {
@@ -137,7 +137,7 @@
         "name": "Semih Aydın",
         "position": "Strateji ve Büyüme/Pazarlama",
         "linkedin": "https://www.linkedin.com/in/ssemihaydnn/",
-        "img": "/assets/images/hesap-accounts/aydin-2.jpg",
+        "img": "/assets/images/hesap-accounts/semih.jpg",
         "team": "Proje",
         "alt": "Semih Aydın"
       },
@@ -154,7 +154,7 @@
         "name": "İsmail Erdoğan",
         "position": "Operasyon",
         "linkedin": "https://www.linkedin.com/in/ismailerdogan82/",
-        "img": "/assets/images/hesap-accounts/ismail.jpg",
+        "img": "/assets/images/hesap-accounts/erdogan.jpg",
 
         "team": "Proje",
         "alt": "İsmail Erdoğan"
@@ -163,7 +163,7 @@
         "name": "Muhammet Talha Danış",
         "position": "Hukuk ve Regülasyon",
         "linkedin": "https://www.linkedin.com/in/muhammed-talha-dani%C5%9F-24b3a220a/",
-        "img": "/assets/images/hesap-accounts/danis.jpg",
+        "img": "/assets/images/hesap-accounts/talha.jpg",
         "team": "Yonetim",
         "alt": "Muhammet Talha Danış"
       },
@@ -199,7 +199,7 @@
         "name": "Bahadır İren",
         "position": "Yazılım ve Teknik Destek",
         "linkedin": "https://www.linkedin.com/in/bahadiriren/",
-        "img": "/assets/images/hesap-accounts/bahadır.jpg",
+        "img": "/assets/images/hesap-accounts/bahadir.jpg",
         "team": "Ar-Ge",
         "alt": "Bahadır İren"
       },
@@ -209,16 +209,14 @@
         "linkedin": "https://www.linkedin.com/in/ahmet-furkan-akinci/",
         "img": "/assets/images/hesap-accounts/furkan.jpg",
         "team": "Ar-Ge",
-
         "alt": "Ahmet Furkan Akıncı"
       },
       {
         "name": "Mehmet Semih Babacan",
         "position": "Yazılım ve Teknik Destek",
         "linkedin": "https://www.linkedin.com/in/mehmetsemihbabacan/",
-        "img": "/assets/images/hesap-accounts/babacan-2.avif",
+        "img": "/assets/images/hesap-accounts/babacan.jpg",
         "team": "Ar-Ge",
-
         "alt": "Mehmet Semih Babacan"
       }
     ],
