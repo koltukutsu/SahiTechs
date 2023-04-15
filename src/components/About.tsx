@@ -117,7 +117,7 @@ const About = () => {
         Ekibimiz
       </h1>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-4 m-2">
         {sections.map((person) => (
           <PersonCard
             key={person.alt}
