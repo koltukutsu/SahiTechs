@@ -63,7 +63,7 @@ const Product = () => {
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
-              className={`text-6xl text-gray-800 font-bold leading-none mb-3`}
+              className={`text-5xl text-gray-800 font-bold leading-none mb-3`}
             >
               {thirdItem?.title}
             </h3>
